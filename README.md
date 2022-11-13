@@ -2,7 +2,7 @@
  VZBot and Voron2.4 300mm merged together ...
 
  ![plot](./PICTURES/VZTrident_Belted_TripleZ_Assembly_2022-Nov-13.png)
- ![plot](./PICTURES/75609f08-5d85-4245-ae3e-b954a4255c3b.PNG)
+ ![plot](./PICTURES/VZTrident_Belted_TripleZ_Assembly_2022-Nov-13_07-25-30AM-000_CustomizedView18489946325.png)
 
 
  This version is currently under developpment ... Not Yet Finish
